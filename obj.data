@@ -1,5 +1,5 @@
 classes= 2
 train = /content/cones-and-cells/train.txt
-valid = /content/cones-and-cells/valid.txt
+valid = /content/cones-and-cells/test.txt
 names = /content/cones-and-cells/obj.names
 backup = backup/
